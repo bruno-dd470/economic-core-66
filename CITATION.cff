@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce logiciel, merci de le citer ainsi :"
+title: "economic-core-66 — Noyau endorégulé Cl(6,6)"
+authors:
+  - family-names: "DE DOMINICIS"
+    given-names: "Bruno"
+doi: "10.5281/zenodo.19947629"
+date-released: "2026-09-27"
+url: "https://github.com/votre-username/economic-core-66"
